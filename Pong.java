@@ -1,5 +1,5 @@
-public class Pong extends JApplet {
-	public static void main(String[] args) {
+public class Pong implements PongInterface{
+	public Pong(){
 		
 	}
 }
